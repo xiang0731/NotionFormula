@@ -1,2 +1,2 @@
 # NotionFormula
-Storing the notion formula
+自用Notion公式库
