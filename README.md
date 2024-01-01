@@ -1,2 +1,2 @@
-# NotionFormula
-自用Notion公式库
+# NotionPlaybook
+NotionPlaybook，自用notion说明书
